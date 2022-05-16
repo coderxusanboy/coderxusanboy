@@ -4,6 +4,10 @@ My portfolio works and tutorials in my Telegram channel!
 <a href="https://t.me/Tursunov_portfolios">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/640px-Telegram_2019_Logo.svg.png" width="27px">
 </a>
+<br/>
+### Languages and tools I work with:
+
+<code><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="25px"></code>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderxusanboy&show_icons=true&theme=radical)
 
