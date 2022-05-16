@@ -1,1 +1,1 @@
-### Hi, I'm Xusanboy <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50px">
+### Hi, I'm Xusanboy <img src-"https://media.giphy.com/media/hvRICLFzcasrR4Satz/giphy.gir" width="27px">
