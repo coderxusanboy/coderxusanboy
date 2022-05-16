@@ -4,4 +4,4 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderxusanboy&layout=compact)](https://github.com/coderxusanboy/github-readme-stats)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coderxusanboy&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coderxusanboy&repo=github-readme-stats)](https://github.com/coderxusanboy/github-readme-stats)
