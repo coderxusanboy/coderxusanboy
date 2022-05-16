@@ -14,3 +14,4 @@ My portfolio works and tutorials in my Telegram channel!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderxusanboy&show_icons=true&theme=radical)
 
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
