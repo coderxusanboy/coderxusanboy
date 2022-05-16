@@ -2,8 +2,7 @@
 My portfolio works and tutorials in my Telegram channel!
 <br/><br/>
 <a href="https://t.me/Tursunov_portfolios">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/640px-Telegram_2019_Logo.svg.png" style="position:relative; top:20px;" width="27px">
-  My telegram channel
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/640px-Telegram_2019_Logo.svg.png" width="27px">
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderxusanboy&show_icons=true&theme=radical)
