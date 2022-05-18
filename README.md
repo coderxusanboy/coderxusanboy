@@ -12,7 +12,4 @@ My portfolio works and tutorials in my Telegram channel!
 <code><img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" width="30px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="25px"></code>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderxusanboy&show_icons=true&theme=radical)
-
-
 <img src="https://forthebadge.com/images/badges/built-with-love.svg">
